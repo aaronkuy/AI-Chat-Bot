@@ -19,4 +19,10 @@ topic with a clean UI and steady Swift code.
 ## The things I've learned
 - I've got a brief overview of Swift and Swift UI
 - Experience on how are the initials of an iOS App
-- AI implementation 
+- AI implementation
+
+
+
+
+https://github.com/user-attachments/assets/17f696da-ed3f-4360-acdb-1c11b3c5feb0
+
