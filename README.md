@@ -1,2 +1,22 @@
-# AI-Chat-Bot
-A tool for the user to request plain questions with clean UI and as a iOS App design. Helpful to get brief information  about a specific topic, with API implementation 
+# AI Chat Bot 
+
+## Description 
+This is a plain iOS App with an Open AI API implementation, gives the user the possibility to get brief informations about a specific 
+topic with a clean UI and steady Swift code. 
+
+## Features 
+- iOS App
+- Chat bot 
+- Responsive application
+- User experience 
+
+## Tech Stack
+- Swift
+- Swift UI 
+- Open AI API 
+- Apple 
+
+## The things I've learned
+- I've got a brief overview of Swift and Swift UI
+- Experience on how are the initials of an iOS App
+- AI implementation 
